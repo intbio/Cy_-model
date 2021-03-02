@@ -27,7 +27,7 @@
 |Syntol|Cy3|7|9|25|
 |Syntol|Cy5|8|9|25|
 
-Расчеты длины линкера быле произведены по упращенной моделе (где линке представлен в виде алкана), из кол-ва связей и длины связи С-С раситывалась средняя длина линкера<sup>[3](http://www.chem.msu.su/rus/teaching/lachinov-basic/part012.html)</sup>.
+Расчеты длины линкера быле произведены по упращенной моделе (где линке представлен в виде алкана), из кол-ва связей и длины связи С-С раситывалась средняя длина линкера<sup>[3](http://www.chem.msu.su/rus/teaching/lachinov-basic/part012.html)</sup>.\
 Формула: 
 
 ![\begin{align*}
@@ -35,4 +35,4 @@ R=\sqrt(\frac{1+ cos \theta}{1-cos\theta}N)l
 \end{align*}
 ](https://render.githubusercontent.com/render/math?math=%5Chuge+%5Ctextstyle+%5Cbegin%7Balign%2A%7D%0AR%3D%5Csqrt%28%5Cfrac%7B1%2B+cos+%5Ctheta%7D%7B1-cos%5Ctheta%7DN%29l%0A%5Cend%7Balign%2A%7D%0A)
 
-Где N - число связий; l - длинна связи = 0,15 нм(1.5 A); θ = 70.33
+Где N - число связий; l - длинна связи = 0,15 нм(1.5 A); θ = 70.33°
