@@ -12,7 +12,8 @@
 -  Мы используем Cy3 и Cy5 с линкерами от [Lumiprobe](https://ru.lumiprobe.com/order-oligo/) и [Syntol](https://www.syntol.ru/catalog/modifitsirovannye-oligonukleotidy/aminolinkery.html)
 <img src="https://github.com/intbio/Cy_model/blob/main/Image/Cyanine3and5.png" width="600"> 
 
-<a id="id1"></a> 3 Радиусы крсителей измерялся в програме Avogadro как указано на рисунке ниже:
+<a id="id1"></a> 
+#### 3 Радиусы крсителей измерялся в програме Avogadro как указано на рисунке ниже:
 <img src="https://github.com/intbio/Cy_model/blob/main/Image/%D0%9D%D0%BEs.jpeg" width="500">
 
 
