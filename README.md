@@ -45,4 +45,4 @@ R=\sqrt(\frac{1+ cos \theta}{1-cos\theta}N)l
 <a id="id4"></a>
 **5** - Количество связей от кольца основания до N красителя\
 <a id="id3"></a>
-**6** - Медианная длина красителя с линкером расчитывалась по коду лежащему по пути: _projects/2020_MD_FRET_modelling_NV/Md_analysis/FRETstein (1).ipynb
+**6** - Медианная длина красителя с линкером расчитывалась по коду лежащему на Jupyter по пути: _projects/2020_MD_FRET_modelling_NV/Md_analysis/FRETstein (1).ipynb
