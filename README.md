@@ -4,7 +4,7 @@
 ## Циановые метки
 | Флюорофоры        | Ex(nm)           | Em(nm)  |Q<sub>y</sub> |Радиус красителя (Å)|
 | ----------------- |:----------------:|:-------:|:------------:|:--------------:|
-| Cy3 | 553<sup>[1](https://www.chroma.com/spectra-viewer?fluorochromes=10382%2C10384)</sup> | 568<sup>[1](https://www.chroma.com/spectra-viewer?fluorochromes=10382%2C10384)</sup>|0,15<sup>[2](https://www.atdbio.com/content/32/Cyanine-dyeshttps://www.atdbio.com/content/32/Cyanine-dyes)</sup>|7<sup>3</sup>|
+| Cy3 | 553<sup>[1](https://www.chroma.com/spectra-viewer?fluorochromes=10382%2C10384)</sup> | 568<sup>[1](https://www.chroma.com/spectra-viewer?fluorochromes=10382%2C10384)</sup>|0,15<sup>[2](https://www.atdbio.com/content/32/Cyanine-dyeshttps://www.atdbio.com/content/32/Cyanine-dyes)</sup>|7<sup>[3](#id1)</sup>|
 | Cy5 | 653<sup>[1](https://www.chroma.com/spectra-viewer?fluorochromes=10382%2C10384)</sup> | 672<sup>[1](https://www.chroma.com/spectra-viewer?fluorochromes=10382%2C10384)</sup>|0,27<sup>[2](https://www.atdbio.com/content/32/Cyanine-dyes)</sup> |8<sup>[3](#id1)</sup>|\
 - Ex (нм): длина волны возбуждения в нанометрах
 - Em (нм): длина волны излучения в нанометрах
@@ -13,7 +13,7 @@
 <img src="https://github.com/intbio/Cy_model/blob/main/Image/Cyanine3and5.png" width="600"> 
 
 <a id="id1"></a> 
-#### 3 Радиусы крсителей измерялся в програме Avogadro как указано на рисунке ниже:
+**3** - Радиусы крсителей измерялся в програме Avogadro как указано на рисунке ниже:
 <img src="https://github.com/intbio/Cy_model/blob/main/Image/%D0%9D%D0%BEs.jpeg" width="500">
 
 
@@ -25,14 +25,15 @@
 
  <img src="https://github.com/intbio/Cy_model/blob/main/Image/Cy_all.png" width="850">
 
-|Компания|Флюорофоры|Радиус красителя (Å)|Длина линкера|Медиальная длина красителя с линкером (Å)|
-| -------|:--------:|:------------------:|:-----------:|--------------------------:|
-|Lumiprobe|Cy3      |7<sup>[3]</sup>     |10<sup>[4]</sup>|28<sup>[5]</sup>|
-|Lumiprobe|Cy5      |8<sup>[3]</sup>     |10<sup>[4]</sup>|25<sup>[5]</sup>|
-|Syntol|Cy3         |7<sup>[3]</sup>     |9<sup>[4]</sup>|18<sup>[5]</sup>|
-|Syntol|Cy5         |8<sup>[3]</sup>     |9<sup>[4]</sup>|20<sup>[5]</sup>|
+|Компания|Флюорофоры|Радиус красителя (Å)|Длина линкера   |Медиальная длина красителя с линкером (Å)|
+| -------|:--------:|:------------------:|:--------------:|--------------------------:|
+|Lumiprobe|Cy3      |7<sup>[3]</sup>     |10<sup>[4](#id2)</sup>|28<sup>[5](#id3)</sup>|
+|Lumiprobe|Cy5      |8<sup>[3]</sup>     |10<sup>[4](#id2)</sup>|25<sup>[5](#id3)</sup>|
+|Syntol|Cy3         |7<sup>[3]</sup>     |9<sup>[4](#id2)</sup> |18<sup>[5](#id3)</sup>|
+|Syntol|Cy5         |8<sup>[3]</sup>     |9<sup>[4](#id2)</sup> |20<sup>[5](#id3)</sup>|
 
-Расчеты длины линкера быле произведены по упращенной моделе (где линке представлен в виде алкана), из кол-ва связей и длины связи С-С раситывалась средняя длина линкера<sup>[3](http://www.chem.msu.su/rus/teaching/lachinov-basic/part012.html)</sup>.\
+<a id="id2"></a>
+**4** - Расчеты длины линкера быле произведены по упращенной моделе (где линке представлен в виде алкана), из кол-ва связей и длины связи С-С раситывалась средняя длина линкера<sup>[3](http://www.chem.msu.su/rus/teaching/lachinov-basic/part012.html)</sup>.\
 Формула: 
 
 ![\begin{align*}
@@ -41,4 +42,5 @@ R=\sqrt(\frac{1+ cos \theta}{1-cos\theta}N)l
 ](https://render.githubusercontent.com/render/math?math=%5Chuge+%5Ctextstyle+%5Cbegin%7Balign%2A%7D%0AR%3D%5Csqrt%28%5Cfrac%7B1%2B+cos+%5Ctheta%7D%7B1-cos%5Ctheta%7DN%29l%0A%5Cend%7Balign%2A%7D%0A)
 
 Где N - число связий; l - длинна связи = 0,15 нм(1.5 A); θ = 70.33°\
-Медиальная длина красителя с линкером расчитывалась по коду лежащему по пути: _projects/2020_MD_FRET_modelling_NV/Md_analysis/FRETstein (1).ipynb
+<a id="id3"></a>
+**5** - Медиальная длина красителя с линкером расчитывалась по коду лежащему по пути: _projects/2020_MD_FRET_modelling_NV/Md_analysis/FRETstein (1).ipynb
