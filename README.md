@@ -41,7 +41,7 @@ R=\sqrt\frac{1+ cos \theta}{1-cos\theta}\sqrt{N}l
 \end{align*}
 ](https://render.githubusercontent.com/render/math?math=%5CLARGE+%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0AR%3D%5Csqrt%5Cfrac%7B1%2B+cos+%5Ctheta%7D%7B1-cos%5Ctheta%7D%5Csqrt%7BN%7Dl%0A%5Cend%7Balign%2A%7D%0A)
 
-Где N - число связий; l - длинна связи = 0,15 нм(1.5 A); θ = 70.33°\
+Где N - число связий; l - длинна связи = 0,15 нм(1.5 A); θ - внешний угол связи = 70.33°\
 <a id="id4"></a>
 **5** - Количество связей от кольца основания до N красителя\
 <a id="id3"></a>
