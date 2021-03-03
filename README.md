@@ -33,7 +33,7 @@
 |Syntol|Cy5         |8<sup>[3](#id1)</sup>|9<sup>[4](#id2)</sup> |19<sup>[5](#id4)</sup>|20<sup>[6](#id3)</sup>|
 
 <a id="id2"></a>
-**4** - Расчеты длины линкера быле произведены по упращенной моделе (где линке представлен в виде алкана), из кол-ва связей и длины связи С-С раситывалась средняя длина линкера<sup>[3](http://www.chem.msu.su/rus/teaching/lachinov-basic/part012.html)</sup>.\
+**4** - Расчеты длины линкера быле произведены по упращенной моделе (где линке представлен в виде алкана), из кол-ва связей и длины связи С-С раситывалась средняя длина линкера<sup>[7](http://www.chem.msu.su/rus/teaching/lachinov-basic/part012.html)</sup><sup>[8](https://www.theorie.physik.uni-muenchen.de/lsfrey/teaching/archiv/sose_06/softmatter/talks/Peter_Jensen-Polymers.pdf)</sup>.\
 Формула: 
 
 ![\begin{align*}
