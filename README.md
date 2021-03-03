@@ -8,7 +8,7 @@
 | Cy5 | 653<sup>[1](https://www.chroma.com/spectra-viewer?fluorochromes=10382%2C10384)</sup> | 672<sup>[1](https://www.chroma.com/spectra-viewer?fluorochromes=10382%2C10384)</sup>|0,27<sup>[2](https://www.atdbio.com/content/32/Cyanine-dyes)</sup> |8<sup>[3](#id1)</sup>|\
 - Ex (нм): длина волны возбуждения в нанометрах
 - Em (нм): длина волны излучения в нанометрах
-- Q<sub>y</sub>: квантовый выход\
+- Q<sub>y</sub>: квантовый выход
 -  Мы используем Cy3 и Cy5 с линкерами от [Lumiprobe](https://ru.lumiprobe.com/order-oligo/) и [Syntol](https://www.syntol.ru/catalog/modifitsirovannye-oligonukleotidy/aminolinkery.html)
 <img src="https://github.com/intbio/Cy_model/blob/main/Image/Cyanine3and5.png" width="600"> 
 
@@ -25,10 +25,10 @@
 
  <img src="https://github.com/intbio/Cy_model/blob/main/Image/Cy_all.png" width="850">
 
-|Компания|Флюорофоры|Радиус красителя (Å)|Длина линкера   |Медиальная длина красителя с линкером (Å)|
+|Компания|Флюорофоры|Радиус красителя (Å)|Длина линкера(Å)|Медиальная длина красителя с линкером (Å)|
 | -------|:--------:|:------------------:|:--------------:|--------------------------:|
-|Lumiprobe|Cy3      |7<sup>[3](#id1)</sup>     |10<sup>[4](#id2)</sup>|28<sup>[5](#id3)</sup>|
-|Lumiprobe|Cy5      |8<sup>[3](#id1)</sup>     |10<sup>[4](#id2)</sup>|25<sup>[5](#id3)</sup>|
+|Lumiprobe|Cy3      |7<sup>[3](#id1)</sup>     |10<sup>[4](#id2)</sup>|25<sup>[5](#id3)</sup>|
+|Lumiprobe|Cy5      |8<sup>[3](#id1)</sup>     |10<sup>[4](#id2)</sup>|28<sup>[5](#id3)</sup>|
 |Syntol|Cy3         |7<sup>[3](#id1)</sup>     |9<sup>[4](#id2)</sup> |18<sup>[5](#id3)</sup>|
 |Syntol|Cy5         |8<sup>[3](#id1)</sup>     |9<sup>[4](#id2)</sup> |20<sup>[5](#id3)</sup>|
 
